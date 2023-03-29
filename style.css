@@ -1,0 +1,26 @@
+div{
+    width: 100%;
+}
+body{
+    background-size: cover;
+}
+#object_name{
+    width: 300px;
+}
+label{
+    font-size: 17px;
+}
+button{
+    background-color: #0984e3;
+    width: 65px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: white;
+    font-size: 17px;
+}
+canvas{
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    
+}
